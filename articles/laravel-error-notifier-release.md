@@ -3,7 +3,7 @@ title: "Sentryを入れるほどじゃないけど500エラーは通知したい
 emoji: "🚨"
 type: "tech"
 topics: ["laravel", "php", "slack", "discord", "oss"]
-published: false
+published: true
 ---
 
 Webサービスや業務システム、受託案件の運用で避けて通れないのが、本番環境での500エラーや未処理例外の検知です。
